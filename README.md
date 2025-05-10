@@ -7,13 +7,12 @@
 ---
 
 ## 🚀 **Project Overview**  
-**AI Stylist** is an intelligent recommendation engine built during my **Infosys Springboard internship** to democratize personalized styling. It combines **DNNs**, **collaborative filtering**, and **context-aware rules** to suggest outfits tailored to user preferences, body types, and occasions. Developed in collaboration with Infosys mentors, this project bridges fashion expertise with scalable ML solutions.  
+**AI Stylist** is an intelligent recommendation engine built during my **Infosys Springboard internship** to democratize personalized styling. It combines **DNNs**, **collaborative filtering**, and **content-based filtering** to suggest outfits tailored to user preferences, body types, and occasions. This project bridges fashion expertise with scalable ML solutions.  
 
 ---
 
 ## 🔍 **Key Innovations**  
-- **Complementary Mapping**: AI pairs items into cohesive outfits (e.g., suggests "Silver Earrings" for a "Black Saree" or "Red Heels" for contrast).  
-- **Infosys Springboard Collaboration**: Leveraged industry insights and cloud infrastructure for scalable model training.  
+- **Complementary Mapping**: AI pairs items into cohesive outfits (e.g., suggests "Silver Earrings" for a "Black Saree" or "Red Heels" for contrast).   
 - **Hybrid Intelligence**: Merges collaborative patterns (user interactions) + content attributes (color, category).  
 - **Visual & Contextual Fusion**: Uses image URLs for aesthetic analysis + season/occasion context.  
 - **Rule-Driven Diversity**: Enforces gender alignment, unique categories, and style contrast in recommendations.  
@@ -21,7 +20,7 @@
 ---
 
 ## 🛠️ **Technical Stack**  
-- **Data**: Kaggle dataset (product metadata, images, ratings) enriched with Infosys-curated attributes.  
+- **Data**: Kaggle dataset (product metadata, images, ratings).  
 - **Preprocessing**: PCA, K-Means clustering, and EDA with Python libraries (Pandas, Seaborn).  
 - **Models**:  
   - **Content-Based Filtering**: TF-IDF + Cosine Similarity.  
@@ -32,19 +31,19 @@
 ---
 
 ## 💡 **Why It Stands Out**  
-### For Users:  
-- 🧩 **Complete Outfits**: Complementary item suggestions (e.g., "White Palazzos" for a "Red Kurta").  
-- 🎯 **Personalized & Diverse**: Balances style relevance with exploratory recommendations.  
-- ⏱️ **Time-Saving**: Curates outfits in seconds, not hours.  
+### For Users:
+- 🕒 Saves time with curated outfit suggestions.
+- 🎨 Explores diverse styles while aligning with personal preferences.
+- 💸 Affordable alternative to traditional styling services.
 
-### For Infosys & Partners:  
-- 🤖 **Scalable Stiling**: Reduces reliance on expensive human stylists.  
-- 📊 **Trend Insights**: Analyzes color/category preferences to optimize inventory.  
-- 🔗 **Seamless Integration**: Built with modular APIs for retail platforms.  
+### For Businesses:
+- 📈 Boosts customer retention and sales conversions.
+- 📉 Reduces return rates via better product alignment.
+- 🧠 Gains insights into consumer trends for inventory optimization.
 
 ---
 
 ## 🌟 **Acknowledgments**  
-This project was nurtured under the guidance of **Infosys Springboard's industry experts**, who provided mentorship on scalable ML deployment and real-world problem-solving. Special thanks to the Infosys team for fostering innovation in AI-driven retail solutions!  
+This project was nurtured under the guidance of **Infosys Springboard's industry experts**. Special thanks to the Infosys team for a valuable internship that connected academic insights with real-world AI challenges!  
 
-*Empowering fashion, one algorithm at a time.* 🛍️🤖  
+*Step into the future of fashion—where data meets style!*  🛍️🤖  
